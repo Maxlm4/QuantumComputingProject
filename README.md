@@ -4,5 +4,5 @@ A quantum computing project done with two other students during my engineer cycl
 
 For more information on the project please consider checking the report. It is curently in french, but an english version may arrive soon.
  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Shor%27s_algorithm.svg/450px-Shor%27s_algorithm.svg.png" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/36695417/194086709-3528fece-344d-4fe9-8c9e-75f52a4745b5.png" alt="Sublime's custom image"/>
 </p>
